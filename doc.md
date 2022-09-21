@@ -14,3 +14,8 @@ git的使用
 
 7.git 保存的记录是可以进行后退请进的gjghjdghs
 
+git 是管理修改的
+
+远程
+git push origin master 推送
+git pull origin master 更新
